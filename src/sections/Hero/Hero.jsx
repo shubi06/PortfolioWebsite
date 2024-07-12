@@ -46,7 +46,7 @@ function Hero() {
         </span>
         <p className={styles.desription}>If we want users to like our software, 
           we should design it to behave like a likeable person </p>
-          <a href={CV}>
+          <a href={CV} target='_blank'>
             <button className='hover' download > Resume 
 
             </button>
