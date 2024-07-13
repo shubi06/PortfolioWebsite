@@ -11,7 +11,7 @@ function Education() {
       <div className={styles.educationContainer}>
         <EducationCard 
           src={universityLogo}   
-          link={'https://www.universitywebsite.com'}
+          link={'https://www.ubt-uni.net/sq/ballina/'}
           h3="UBT - University for Business and Technology"
           p="Bachelor of Computer Science and Engineering"
         />
