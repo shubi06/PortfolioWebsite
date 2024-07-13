@@ -1,6 +1,6 @@
 import React from 'react'
 import styles from './HeroStyles.module.css'
-import heroImg from '../../assets/hero-img.png'
+import heroImg from '../../assets/shubi.png'
 import sun from '../../assets/sun.svg'
 import moon from '../../assets/moon.svg'
 import twitterLight from '../../assets/twitter-light.svg'
@@ -45,7 +45,7 @@ function Hero() {
         </a>
         </span>
         <p className={styles.desription}>If we want users to like our software, 
-          we should design it to behave like a likeable person </p>
+         <br /> we should design it to behave like a likeable person </p>
           <a href={CV} target='_blank'>
             <button className='hover' download > Resume 
 
